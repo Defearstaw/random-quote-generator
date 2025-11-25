@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+Генератор Случайных Цитат
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React-приложение для генерации случайных мотивационных цитат. Проект выполнен в рамках контрольной работы по дисциплине "Технологии индустриального программирования".
 
-## Available Scripts
+🚀 Функциональность
 
-In the project directory, you can run:
+✅ Показ случайной цитаты и автора
+✅ Кнопка для генерации новой цитаты
+✅ Приятный адаптивный дизайн
+✅ Плавные анимации при переключении
+✅ Локализация (русский/английский)
+✅ Сохранение избранных цитат в Local Storage
+🛠 Технологии
 
-### `npm start`
+React 18 (функциональные компоненты, хуки)
+CSS3 (Flexbox, Grid, градиенты, анимации)
+JavaScript ES6+
+Local Storage API
+📦 Установка и запуск
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Полная установка с нуля:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Установите Node.js (если не установлен):
 
-### `npm test`
+Скачайте LTS версию с официального сайта
+Запустите установщик и следуйте инструкциям
+Проверьте установку в терминале:
+node --version
+npm --version
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2. Клонируйте репозиторий:
 
-### `npm run build`
+git clone https://github.com/ВАШ_ЛОГИН/random-quote-generator.git
+cd random-quote-generator
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3. Установите зависимости:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+npm install
+4. Запустите приложение в режиме разработки:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+npm start
+Приложение будет доступно по адресу: http://localhost:3000
 
-### `npm run eject`
+🎯 Как пользоваться
+Откройте приложение в браузере
+Нажмите кнопку "Новая цитата" для генерации случайной цитаты.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+СКРИНШОТЫ:
+![Главный экран](screenshots/main.png)
+![Пример цитаты](screenshots/quote-example.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
