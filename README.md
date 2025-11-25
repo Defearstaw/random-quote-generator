@@ -30,7 +30,7 @@ npm --version
 
 2. Клонируйте репозиторий:
 
-git clone https://github.com/ВАШ_ЛОГИН/random-quote-generator.git
+git clone https://github.com/Defearstaw/random-quote-generator.git
 cd random-quote-generator
 
 3. Установите зависимости:
