@@ -46,6 +46,6 @@ npm start
 Нажмите кнопку "Новая цитата" для генерации случайной цитаты.
 
 СКРИНШОТЫ:
-![Главный экран](screenshots/main.png)
+![Главный экран](screenshots/IMG_20251125_195635_055.jpg)
 ![Пример цитаты](screenshots/quote-example.png)
 
