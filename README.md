@@ -47,5 +47,5 @@ npm start
 
 СКРИНШОТЫ:
 ![Главный экран](screenshots/IMG_20251125_195635_055.jpg)
-![Пример цитаты](screenshots/quote-example.png)
+![Пример цитаты](screenshots/IMG_20251125_195635_135.jpg)
 
